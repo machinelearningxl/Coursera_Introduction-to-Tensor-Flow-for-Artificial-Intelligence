@@ -23,4 +23,4 @@ ys = np.array([100, 150, 200, 250, 300, 350], dtype=float)
 model.fit(xs, ys, epochs=900)
 print(model.predict([7]))
 
-###
+##
