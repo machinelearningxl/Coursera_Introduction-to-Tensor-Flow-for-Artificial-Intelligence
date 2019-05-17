@@ -36,3 +36,4 @@ classifications = model.predict(test_images)
 print(test_images[0])
 
 plt.show()
+##
